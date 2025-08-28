@@ -65,39 +65,40 @@
 
 This is where the magic of coding begins. You'll learn the fundamental process of running code, starting with the incredibly versatile print() command. This simple function is your first tool for communicating with the computer, allowing you to display text and see the direct output of your instructions. By the end of this section, you'll have successfully run your very first Python program. Let's dive in!
 
--Keep the intros breif, summerizing, and motivating. 
+-Keep the intros breif, summarizing, and motivating. 
 
 //June 20th 
 - worked through Beginner modules 06-10
 - each one pedagogically teaches students about the Python basics. First week focuses less on Python basics, and more on coding basics.
-	- what is coding, what can it do, etc.
+	- what is coding? What can it do, etc?
 - later weeks is more familar to me, with text analysis code and processes being demonstrated and practiced
 
 //July 2nd
 - Completed Beginner modules. 
-- I find the frankenstein-text assignment VERY valuable. This was essensially our final project in the "Coding For Digital Humanists" course I took at the Library.
+- I find the Frankenstein-text assignment VERY valuable. This was essentially our final project in the "Coding For Digital Humanists" course I took at the Library.
 - Has students use an eBook from Project Gutenberg to create a distant read and text analysis.
 - It is valuable to keep the text the same for all students, however another option would be too have the students pick any text from Gutenberg since theoretically the assignment should still work with some adjustments. 
 
 //July 8th
-- Began intermediate modules. I relize that this is where my coding knoledge runs thin.
-- Alot of the terminology is familiar such as Pandas for Data Manipulation, NLTK, and Webscrapping.
-- However, I get lost towards the end of DH Intermediate, particularilly the JSON handling and pagination. With that being said, I was able to work through the assignment of Exploring Chronicling America. I think this assessment is valuable, expecially in a history course.
+- Began intermediate modules. I realize that this is where my coding knowledge runs thin.
+- A lot of the terminology is familiar, such as Pandas for Data Manipulation, NLTK, and Web Scraping.
+- However, I get lost towards the end of DH Intermediate, particularly the JSON handling and pagination. With that being said, I was able to work through the assignment of Exploring Chronicling America. I think this assessment is valuable, expecially in a history course.
 
 //August 6th
 - HUGE change to the project: no longer using Tangent as a platform
 - Professor Shawn Graham decided to switch to an online website-based platform
 - I think this is a better choice since it would not require the student to download any additional applications. 
-- Working on introductions for the new online based course.
+- Working on introductions for the new online-based course.
 
 //August 10th
-- Attempting to finish the Advanced folder in the DHPrimer tangent applicaiton.
-- Unfortunantly, this coding is much above my skill level
+- Attempting to finish the Advanced folder in the DHPrimer tangent application.
+- Unfortunately, this coding is much above my skill level
 - With that being said, I find some personal value in understanding how coding can be used in the analysis of not only text, number, or documents. But Visual and audio as well.
-- I find the accesibility factor of data sonification also VERY interesting. 
+- I find the accessibility factor of data sonification also VERY interesting. 
+- It would be very valuable to have a meeting to see where everybody is and what direction we are moving
 
 //August 20th
-- Working through the week's modules in order. starting with Beginner folder.
+- Working through the week's modules in order. starting with the Beginner folder.
  
  **Working With Course Files**
 Files in the lab bench include:
@@ -130,4 +131,5 @@ Files in the lab bench include:
 -Get familiar with using markdown and notebooks as tools for self-documenting research.
 
 -Realize the value of reproducibility, version control, and accessible note-making in computational research.
+
 
