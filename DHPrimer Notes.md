@@ -1,4 +1,4 @@
-//May 15th, 2024
+// May 15th, 2024
 
 -Successfully installed Tangent using the Dropbox link provided by Professor Graham.
 
@@ -29,23 +29,23 @@
 	-So far, the user interface appears intuitive, though some features require deeper exploration to understand their full capabilities.
 
 
-//May 23rd, 2024
+// May 23rd, 2024
 
--Met with Professor Graham and group members to discuss ongoing progress and project planning.
+- Met with Professor Graham and group members to discuss ongoing progress and project planning.
 
--As a team, we’ve decided to use Trello as our primary tool for task management and progress tracking. A shared Trello board has been created with categories for to-do, in-progress, and completed tasks. 
+- As a team, we’ve decided to use Trello as our primary tool for task management and progress tracking. A shared Trello board has been created with categories for to-do, in-progress, and completed tasks. 
 	
-	-Each group member is responsible for updating their respective tasks as the project evolves.
+	- Each group member is responsible for updating their respective tasks as the project evolves.
 
--My primary role in the project will be the development of a short instructional or “how-to” video that demonstrates a key technical process (likely related to Tangent installation or usage).
+- My primary role in the project will be the development of a short instructional or “how-to” video that demonstrates a key technical process (likely related to Tangent installation or usage).
 
--I will be using PowerDirector 365 (PD365) by Cyberlink for this task, as it includes both video editing tools and a built-in screen capture utility.
+- I will be using PowerDirector 365 (PD365) by Cyberlink for this task, as it includes both video editing tools and a built-in screen capture utility.
 
--Installed PD365 and verified that the screen recording feature is functional.
+- Installed PD365 and verified that the screen recording feature is functional.
 
--I have not previously edited screen-recorded footage, so I will be documenting my learning process with both the capture and editing workflows, possibly for inclusion in the final report or a supplementary reflection.
+- I have not previously edited screen-recorded footage, so I will be documenting my learning process with both the capture and editing workflows, possibly for inclusion in the final report or a supplementary reflection.
 
--I aim to create a 1-minute video that is:
+- I aim to create a 1-minute video that is:
 
 	- Simple and clear, minimizing visual clutter and extraneous information.
 
@@ -57,7 +57,7 @@
 
 	- The challenge will be balancing clarity and thoroughness while staying within the 1-minute limit. I see this constraint as a creative opportunity — it forces brevity, intentionality, and careful script planning.
 
-//June 2nd
+// June 2nd
 - worked thorugh Beginner modules 01- 05
 - 01, breif introduction to DH and python coding language
 - 02, "first code". This seciton could have more information and pedagogy within it. 
@@ -67,38 +67,39 @@ This is where the magic of coding begins. You'll learn the fundamental process o
 
 -Keep the intros breif, summarizing, and motivating. 
 
-//June 20th 
+// June 20th 
 - worked through Beginner modules 06-10
 - each one pedagogically teaches students about the Python basics. First week focuses less on Python basics, and more on coding basics.
 	- what is coding? What can it do, etc?
 - later weeks is more familar to me, with text analysis code and processes being demonstrated and practiced
 
-//July 2nd
+// July 2nd
 - Completed Beginner modules. 
 - I find the Frankenstein-text assignment VERY valuable. This was essentially our final project in the "Coding For Digital Humanists" course I took at the Library.
 - Has students use an eBook from Project Gutenberg to create a distant read and text analysis.
 - It is valuable to keep the text the same for all students, however another option would be too have the students pick any text from Gutenberg since theoretically the assignment should still work with some adjustments. 
 
-//July 8th
+// July 8th
 - Began intermediate modules. I realize that this is where my coding knowledge runs thin.
 - A lot of the terminology is familiar, such as Pandas for Data Manipulation, NLTK, and Web Scraping.
-- However, I get lost towards the end of DH Intermediate, particularly the JSON handling and pagination. With that being said, I was able to work through the assignment of Exploring Chronicling America. I think this assessment is valuable, expecially in a history course.
+- However, I get lost towards the end of DH Intermediate, particularly the JSON handling and pagination. With that being said, I was able to work through the assignment of Exploring Chronicling America. I think this assessment is valuable, especially in a history course.
 
-//August 6th
+// August 6th
 - HUGE change to the project: no longer using Tangent as a platform
 - Professor Shawn Graham decided to switch to an online website-based platform
 - I think this is a better choice since it would not require the student to download any additional applications. 
 - Working on introductions for the new online-based course.
 
-//August 10th
+// August 10th
 - Attempting to finish the Advanced folder in the DHPrimer tangent application.
 - Unfortunately, this coding is much above my skill level
 - With that being said, I find some personal value in understanding how coding can be used in the analysis of not only text, number, or documents. But Visual and audio as well.
 - I find the accessibility factor of data sonification also VERY interesting. 
 - It would be very valuable to have a meeting to see where everybody is and what direction we are moving
 
-//August 20th
+// August 20th
 - Working through the week's modules in order. starting with the Beginner folder.
+- Notes below would be how I would assume students to take their notes:
  
  **Working With Course Files**
 Files in the lab bench include:
@@ -117,7 +118,7 @@ Files in the lab bench include:
 
 	-A Reflection Note: Describe your experience, difficulties, discoveries, or questions.
 
--A Week 1 Memo Note: Summary of what you did/learned this week.
+-A Week 1 Memo Note: Summary of what I did/learned this week.
 
 -Download these notes by right-clicking in the file pane > Download
 
@@ -128,8 +129,8 @@ Files in the lab bench include:
 
 -Begin thinking in terms of digital workflows: combining computation and interpretation.
 
--Get familiar with using markdown and notebooks as tools for self-documenting research.
 
 -Realize the value of reproducibility, version control, and accessible note-making in computational research.
+
 
 
